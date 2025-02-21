@@ -1,0 +1,14 @@
+setup.py
+mytab.egg-info/PKG-INFO
+mytab.egg-info/SOURCES.txt
+mytab.egg-info/dependency_links.txt
+mytab.egg-info/entry_points.txt
+mytab.egg-info/top_level.txt
+tabplugin/__init__.py
+tabplugin/plugins.py
+tabplugin/urls.py
+tabplugin/views.py
+tabplugin/static/README.txt
+tabplugin/static/css/myxblock.css
+tabplugin/static/html/myxblock.html
+tabplugin/static/js/src/myxblock.js

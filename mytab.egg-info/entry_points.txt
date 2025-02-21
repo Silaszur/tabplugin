@@ -1,0 +1,3 @@
+[openedx.course_tab]
+mytab = plugins:MyTab
+
