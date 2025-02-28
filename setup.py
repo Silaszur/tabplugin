@@ -30,6 +30,9 @@ setup(
         'tabplugin',
     ],
     entry_points={
+        "lms.djangoapp": [
+            "mytab = tabplugin.apps:MyTabConfig",
+        ],
         "openedx.course_tab": [
             "mytab = plugins:MyTab"
         ],
