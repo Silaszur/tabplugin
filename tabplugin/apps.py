@@ -11,13 +11,6 @@ class MyTabConfig(AppConfig):
                 PluginURLs.REGEX: r'^',
                 PluginURLs.RELATIVE_PATH: 'urls',
             }
-        },
-        PluginSettings.CONFIG: {
-            ProjectType.LMS: {
-                SettingsType.COMMON: {
-                    PluginSettings.RELATIVE_PATH: 'settings.common'
-                },
-            },
         }
     }
     
